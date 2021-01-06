@@ -1,6 +1,6 @@
 # Site Wordpress fais par BOURCIER LUCAS
 Le dossier de production ce trouve en premier sur github
-Lien vers le site web : "http://62.210.83.115:11205/wordpress/"
+Lien vers le site web : 
 ## Programme ou compte demander 
 Un compte GitHub : https://github.com/
 Télécharger GIT : https://git-scm.com/
